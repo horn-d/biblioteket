@@ -50,6 +50,12 @@ body {
     height: 100%;
 }
 
+.fp article img {
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+
 .fp article h1 {
     text-align: center;
 }
