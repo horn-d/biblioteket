@@ -8,7 +8,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: lucida sans;
-    background-image: url(/image/boblergule.png);
+    background-image: url(/image/cirkler.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -165,6 +165,7 @@ body {
 
 .un article h2 {
     text-align: center;
+    color: gray;
 }
 
 .collapsible {
@@ -208,9 +209,10 @@ body {
 
 
 .un article img {
-    max-width: 40%;
+    max-width: 20%;
     max-height: 400px;
     float: left;
+    margin-left: 20px;
 }
 
 .un article section {
@@ -220,8 +222,24 @@ body {
     margin-bottom: 2em;
 }
 
-.un article button {
+.un article button {}
+
+
+.h2header {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 40px;
 }
 
 
+/* LYD */
 
+h3 {
+    margin-left: 30%;
+    font-size: 20px;
+}
+
+/* diktafonerne, da de så meget store ud*/
+.sound {
+    height: 200px;
+}
