@@ -17,7 +17,7 @@ body {
     width: 20%;
     padding-left: 40px;
     top: -2em;
-    position: absolute;
+    position: fixed;
 }
 
 /* undersider */
@@ -229,7 +229,7 @@ body {
 .un article img {
     max-width: 20%;
     float: left;
-    margin-left: 20px;
+    padding: 20px;
 }
 
 .un article section {
@@ -238,8 +238,6 @@ body {
     border-radius: 12px;
     margin-bottom: 2em;
 }
-
-.un article button {}
 
 
 .h2header {
