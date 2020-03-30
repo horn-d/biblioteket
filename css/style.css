@@ -16,7 +16,7 @@ body {
 .logo {
     width: 20%;
     padding-left: 40px;
-    top: -2.3em;
+    top: -2em;
     position: absolute;
 }
 
@@ -135,10 +135,18 @@ body {
     padding-bottom: 10%;
 }
 
+.ab h2 {
+    padding-top: 20px;
+}
+
 .ab h3 {
     text-align: center;
     margin: auto;
     margin: 8px;
+}
+
+.ab p {
+    font-style: italic;
 }
 
 /* udstyr */
