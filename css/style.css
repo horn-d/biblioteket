@@ -227,9 +227,18 @@ body {
     border-radius: 12px;
 }
 
+.un aside {
+    position: fixed;
+    right: 11%;
+    top: 17%;
+    color: white;
+    font-weight: 300;
+    font-size: 1.8em;
+}
 
 .un article img {
     max-width: 20%;
+    max-height: 150px;
     float: left;
     padding: 20px;
 }
