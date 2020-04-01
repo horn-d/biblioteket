@@ -8,9 +8,10 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: lucida sans;
-    background-image: url(/image/boblergule.png);
+    background-image: url("/image/boblergule.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: right;
 }
 
 .logo {
@@ -229,7 +230,7 @@ body {
 
 .un aside {
     position: fixed;
-    right: 11%;
+    right: 5%;
     top: 17%;
     color: white;
     font-weight: 300;
